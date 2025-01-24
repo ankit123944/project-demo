@@ -1,9 +1,9 @@
 # project-demo
 This is a demo for Git &amp; Github class
 
-#Teacher
+# Teacher
 Shardha Khapra
 
-#student
+# student
 Ankit
 
